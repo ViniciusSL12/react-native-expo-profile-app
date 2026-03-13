@@ -16,19 +16,3 @@ npm install
 npx expo start
 
 3. Escaneie o QR Code no aplicativo **Expo Go** no celular.
-
-## Publicar OTA Update
-
-1. Instalar EAS CLI
-npm install -g eas-cli
-
-2. Login
-eas login
-
-3. Configurar
-eas init
-
-4. Enviar update
-eas update --auto
-
-Após executar o comando acima, o Expo irá gerar um **QR Code OTA** que pode ser compartilhado como link para entrega da atividade.
