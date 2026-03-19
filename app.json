@@ -14,6 +14,9 @@
         "projectId": "3f397bf1-30e0-4d21-b633-f4146f8dbf5b"
       }
     },
-    "owner": "viniciussl12"
+    "owner": "viniciussl12",
+    "android": {
+      "package": "com.viniciussl12.profileapp"
+    }
   }
 }
